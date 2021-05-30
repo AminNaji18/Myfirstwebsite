@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Music</title>
+<h1 align='center' style="color:#003153; font-size:60px;">Music</h1>
+</head>
+<body style="background-color: lightcoral;">
+    <p align='center' style="font-size: 20px;">In some ways, music is a lot like literature. It can be pleasing, enlightening, even life-changing. A great song, like a great book, affects the listener in unanticipated ways and resonates long after the music has ceased. And, if done well, both music and literature have a rhythm and tone unique to their authors; you wouldn't confuse a passage from a Charles Dickens novel with one from a Harry Potter book, nor would you mistake a verse from "A Hard Day's Night" for one from a Lady Gaga song. But how do you describe your favorite song? How do you put its melody into words or explain the beauty of its chords? How do you begin to describe the emotions that it provokes in you? As the maxim goes, "Writing about music is like dancing about architecture." In other words, despite the similarities between literature and music, conveying sound through text is a challenge, even for the most talented of writers.
+
+        For those writers who give it a shot, though, the descriptions have the potential to be breathtakingly beautiful.</p><br>
+        <p align='center' style="font-size: 20px;">You do not necessarily have to be a professional artist with a degree in music or someone who can play a few instruments, music is in the nature and humans are a part of the nature which makes them the best fitted species to make music using their emotions or inspired by the sounds of the nature.</p><br>
+        <p align='center' style="font-size: 40px;">Here are some examples of the music i made, Feel free to check them out!</p><br>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qkg_PalgFN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UdMqXimrHHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</center>
+&nbsp
+<h2 align='center' style="background-color: lightcoral; color:#003153; font-size:50px;">List of legendary musicians and artists</h2>
+<p align="center" style="font-size:30px;">This list introduces Legendary musicians and artists of all time, it is based by reviews of a great team of professional producers but the list also includes some of the fan favorites as well.<br>
+The goal of Musician's Hall of Fame is to honor the works of these great minds fr the beautiful pieces of music which they have created.
+</p><br><br>
+<p align='center' style="color: darkslategrey; font-size: 30px;">You can also apply for our free music lessons with live sessions by clicking on the link below!</p>
+<center>
+<a style="background-color:#003153; color:white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="C:\Users\dell\Desktop\HTml\Musicians corner.html" target="_blank">Free Music Lessons With Professional Players</a>
+</center>
+&nbsp
+<h3 align='center' style="color:#003153; font-size:30px;">Ludwig Van Beethoven</h3><br>
+<center>
+<img src="C:\Users\dell\Desktop\HTml\beethoven.jpg" width="800" height="1000">
+</center>
+&nbsp
+<p align='center' style="font-size:20px;">Considered the best composer of all time, Beethoven challenged authority by refusing to accept the cultural norms of the day. His soulful sonatas and symphonies broke the boundaries of the Classical Era � defined by technical mastery � and ushered in a new period, the Romantic Era. Being deaf didn't stop him from composing masterpieces that endure to this day in movies like Ace Ventura: Pet Detective. -Gabrielle Canon</p><br>
+&nbsp
+<center>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Ludwig_van_Beethoven" target="_blank">Find More About Beethoven</a>
+&nbsp
+<h4 align='center' style="color:#003153; font-size:30px;">Wolfgang Amadeus Mozart</h4><br>
+&nbsp
+
+
+<center>
+<img src="C:\Users\dell\Desktop\HTml\mozart.jpg" width="800" height="1000">
+</center>
+&nbsp
+<p align='center' style="font-size:20px;">You know those stupid bumper stickers parents put on their cars to brag about their honor student children? Well, Mozart started writing classical compositions at age four. He performed publicly at the Salzburg University a year later. And at seven he picked up a violin and sight-read an entire piece with complete accuracy, without having ever had a violin lesson. Wolfgang Amadeus was a true child prodigy. And this is without mentioning � you know � that he went on to become one of the most highly regarded classical composers ever. -Chris Walker
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart" target="_blank">Find more About the MAESTRO Wolfgang amadeus Mozart</a>
+&nbsp
+&nbsp
+<h5 align='center' style="color:#003153; font-size:30px;">The Beatles</h5><br>
+&nbsp
+
+<img src="C:\Users\dell\Desktop\HTml\beatles.jpg" width="1200" height="600">
+&nbsp
+<p align='center' style="font-size:20px;">Precursors to the Prefab Four, aka the Monkees, the Fab Four from Liverpool started with matching haircuts. But then they began growing their hair out, and that's when shit got real. Before you knew it their hair was much longer than the establishment preferred, and the social order began to decay. Next there was a musical called Hair and then later one called Hairspray. It all got to be a little much, especially if you weren't into hair. -Ben Westhoff
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/The_Beatles" target="_blank">Find more About The Fab Four</a>
+&nbsp
+&nbsp
+<h6 align='center' style="color:#003153; font-size:30px;">Elvis Presley</h6><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\elvis.jpg" width"1200" height="600">
+&nbsp
+<p align='center' style="font-size:20px;">Elvis didn't like being called a hero, nor did he enjoy the �king of rock 'n roll� moniker. Teased as a child in Tupelo, Mississippi, he became a loner, learning to play the guitar and finding inspiration in black gospel music and Memphis' bustling Beale Street blues scene. He became a leading figure in the emerging genre of rock, and eventually the best-selling solo artist in the history of popular music. But he never fully shook off the shyness of his youth, and celebrity ultimately proved a fatal curse. (See also: �It's 2012. Is Elvis Still Sexy? God Yes.�) -Rebecca Haithcoat
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Elvis_Presley" target="_blank">Learn More About The King Of Rock n' Roll</a><br><br>
+<h7 align='center' style="color:#003153; font-size:30px;">Michael Jackson</h7><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\michael.jpeg" width="1000" height="1000">
+&nbsp
+<p align='center' style="font-size:20px;">People made a lot of jokes about Michael Jackson before he died; about the way he spoke, the color of his skin, his fondness for zoo animals and children, the clothes he wore, the women he married, the names he chose for his kids, his penchant for grabbing his nuts, his sentimental streak, his plastic surgeries, and his acting talents, or lack thereof. But when he died people made fewer of those jokes. -Ben Westhoff
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Michael_Jackson" target="_blank">Learn More About King Michael Jackson</a><br><br>
+
+<h8 align='center' style="color:#003153; font-size:30px;">Louis Armstrong</h8><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\louis.jpg" width="1200" height="600">
+&nbsp
+<p align='center' style="font-size:20px;">Louis Armstrong was jazz's first superstar. Satchmo's explosive creativity defied conventions of early New Orleans jazz; he was a charismatic showman and dazzling trumpet player who was, literally, too good for his band. His performances were largely responsible for shifting the focus from the group to the soloist, and he was also quite an innovator when it came to scat. Perhaps most importantly, his acceptance by the social elite helped popularize jazz across racial and social boundaries. -Chris Walker
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Louis_Armstrong" target="_blank">Learn More About Louis Armstrong</a><br><br>
+
+<h9 align='center' style="color:#003153; font-size:30px;">Madonna</h9><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\madonna.jpg" width="800" height="1000">
+&nbsp
+<p align='center' style="font-size:20px;">When asked by Dick Clark on American Bandstand in 1983 what her dreams were, a young Madonna replied, �To rule the world.� She proceeded to do just that, releasing eleven blockbuster studio albums to date and becoming the world's top-selling female recording artist ever. The mother of reinvention, she has endlessly reworked her image and style, affecting our culture in myriad, rippling ways. Though she's sometimes criticized for following fads in her personal life, when it comes to her music the culture usually mirrors her. -Rebecca Haithcoat
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Madonna" target="_blank">Learn More About Madonna</a><br><br>
+&nbsp
+&nbsp
+<h10 align='center' style="color:#003153; font-size:30px;">The Rolling Stones</h10><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\stones.jpg" width="1000" height="600"><br>
+&nbsp
+<p align='center' style="font-size:20px;">They may have claimed �It's only rock n' roll,� but the music of the Rolling Stones helped define a generation. Mick Jagger, Keith Richards and the crew came to represent the edgier side of the British Invasion, serving as countercultural symbols of youthful rebellion and sexual liberation during a time of sweeping social change. By 1965 the Stones were dominating charts around the world. We owe much of today's pop-rock structures to the music they pioneered. -Chris Walker
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/The_Rolling_Stones" target="_blank">Learn More About The Rolling Stones</a><br><br>
+
+<h11 align='center' style="color:#003153; font-size:30px;">Johannes Sebastian Bach</h11><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\bach.jpg" width="800" height="1000"><br>
+&nbsp
+<p align='center' style="font-size:20px;">Bach was a total badass. His name is practically synonymous with Baroque music, and by the turn of the 18th century he had become its master composer. His choir, instrument, and orchestral arrangements are painstakingly technical and well-organized, and he was a compositional powerhouse. Over his lifetime, he produced over 200 cantatas, concertos, and suites, which are still considered among the most beautifully arranged pieces of all time. Not exactly a lightweight. -Chris Walker
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="https://en.wikipedia.org/wiki/Johann_Sebastian_Bach" target="_blank">Learn more About Bach</a><br><br>
+
+<h12 align='center' style="color:#003153; font-size:30px;">Pyotr Ilyich Tchaikovsky</h12><br>
+&nbsp
+<img src="C:\Users\dell\Desktop\HTml\pyotr.jpg" width="800" height="1000"><br>
+&nbsp
+<p align='center' style="font-size:20px;">By the end of his fairly short life, Tchaikovsky's inner and outer circumstances would appear to have been perfectly splendid. After his triumphant tour of America, and being awarded an honorary doctorate at Cambridge University, he was accepted as a world figure, not a merely national composer but one of universal significance. In 1891 the Carnegie Hall program booklet proclaimed him, together with Brahms and Saint-Sa�ns, to be one of the three greatest living musicians, while music critics praised him as "a modern music lord".
+
+Within Russia he became even more than that�he was considered a national treasure, and his music admired and adored by all strata of society. He enjoyed the favour of the Imperial court, where he had a number of influential protectors (including two Grand Dukes), as well as the personal patronage of Emperor Alexander III, who had granted him a handsome government pension. Regardless of his homosexual orientation, which to a large extent was already a matter of public knowledge, it cannot be said that Tchaikovsky's inner life had suffered from any prolonged frustration�rather, to the contrary. His main emotional involvement in this period, with his beloved nephew Vladimir Davydov, proved to be a source of stability and spiritual happiness.
+</p><br>
+<a style="background-color: #003153; color:aliceblue; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;" href="http://en.tchaikovsky-research.net/pages/Tchaikovsky:_A_Life" target="_blank">Learn More About Tchaikovsky</a><br><br>
+
+ 
+
+</body>
+</html>
